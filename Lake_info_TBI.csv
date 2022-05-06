@@ -1,0 +1,106 @@
+Sample ID;year;Location;Country;Lake;Type;Depth (m);Latitude N;Longitude E;Altitude (m asl);Area (km2);Koppen Geiger climate classification;Mean depth;Max depth;Secchi (m)
+44;2016;B Ekeren;B;Ekeren;littoral;1;51.28379;4.39302;1;0.2;Cf;;21;3
+47;2016;B Ekeren;B;Ekeren;pelagic;1;51.28379;4.39302;1;0.2;Cf;;21;3
+109;2016;IT Campo;IT;Campo;littoral;1;46.04049;10.49856;1943;0.09;Df;13.7;27;12.1
+112;2016;IT Roncone 1m;IT;Roncone;pelagic;1;45.98593;10.67775;782;0.03;Cf;2;4;2.2
+115;2016;IT Roncone 3,5m;IT;Roncone;pelagic;1;45.98593;10.67775;782;0.03;Cf;2;4;2.2
+118;2016;IT Roncone ;IT;Roncone;littoral;1;45.98593;10.67775;782;0.03;Cf;2;4;2.2
+121;2016;IT S. Giustina;IT;S. Giustina;pelagic;1;46.37199;11.05023;553;3.50;Cf;152;52;3.2
+18;2016;IT Lugano Paradiso, Forca di S.Martino )-10m);IT;Lugano;littoral;10;45.98315;8.95699;271;49;Cs;;;6.0
+126;2016;IT Corvo;IT;Corvo;littoral;1;46.44074;10.81447;2462;0.06;ET;NA;20;12.5
+129;2016;IT Malghette;IT;Malghette;pelagic;1;46.26685;10.81890;1880;0.10;Df;5;11;10.3
+27;2016;IT Maggiore 1 (-10m);IT;Maggiore;littoral;10;45.93108;8.48100;193;212;Cs;177;370;6.0
+132;2016;IT Mezzana;IT;Mezzana;littoral;1;46.27778;10.80972;2001;0.01;ET;NA;12.5;NA
+147;2016;IT Fischzuchtteich;IT;Fischzuchtteich;littoral;1;46.71771;11.65724;500;0.00;Cf;NA;5;1.0
+149;2016;IT Millander Au;IT;Millander Au;littoral;1;46.70854;11.65946;500;0.00;Cf;NA;1;1.2
+151;2016;IT Seeburgweihe;IT;Seeburgweihe;littoral;1;46.71771;11.65724;600;0.00;Cf;NA;2;0.7
+153;2016;IT Vahrner See;IT;Vahrner See;littoral;1;46.76538;11.63461;712;0.02;Cf;2;3.5;1.3
+182;2017;IT Tovel;IT;Tovel;pelagic;1;46.26137;10.94984;1178;0.39;Cf;39;19;15.7
+185;2017;IT Casinei;IT;Casinei;littoral;1;45.945123;10.511861;2059;0.06;ET;NA;NA;NA
+209;2017;IT Corvo;IT;Corvo;littoral;1;46.44074;10.81447;2462;0.06;ET;NA;20;12.5
+215;2015;NL RP0;NL;Rosmalense plas;littoral;0.5;51.723447;5.334576;4;0.19;Cf;31.2;11.6;4.2
+235;2015;NL HV0;NL;Engelermeer;littoral;0.5;51.702733;5.239674;1.3;0.15;Cf;15.5;8.1;4.5
+255;2015;NL OL0;NL;de Omloop;littoral;0.5;51.791854;4.950042;0.8;0.06;Cf;13.5;6.8;0.9
+275;2015;NL BM0;NL;Blauwe meer;littoral;0.5;51.613653;5.057933;9;0.2;Cf;10.8;23.4;6.45
+296;2015;NL GW0;NL;Gat van Waalre;littoral;0.5;51.396893;5.445546;28.5;0.15;Cf;22.7;11.7;4.65
+316;2015;NL PW0;NL;Plas Wagenberg;littoral;0.5;51.656317;4.752216;0.3;0.10;Cf;17.5;7.0;3.35
+71;2016;B Ekeren;B;Ekeren;pelagic;3;51.28379;4.39302;1;0.2;Cf;;21;3
+74;2016;B Ekeren;B;Ekeren;pelagic;6;51.28379;4.39302;1;0.2;Cf;;21;3
+77;2016;B Ekeren;B;Ekeren;pelagic;9;51.28379;4.39302;1;0.2;Cf;;21;3
+80;2016;B Ekeren;B;Ekeren;pelagic;12;51.28379;4.39302;1;0.2;Cf;;21;3
+83;2016;B Ekeren;B;Ekeren;pelagic;15;51.28379;4.39302;1;0.2;Cf;;21;3
+336;2015;NL LK0;NL;Leemkuilen;littoral;0.5;51.60757;5.184475;6;0.38;Cf;15.5;7.3;3.15
+1;2016;CZ Žeb?tínský fishpond Brno;CZ;Žeb?tínský;littoral;1;49.21402;16.49215;306;0.0442;Cf;;;0.5
+2;2016;CZ Dehtar lake;CZ;Dehtá?;littoral;1;49.00736;14.29711;412;2.46;Cf;;6;0.4
+3;2016;CZ Dehtar stream bay;CZ;Dehtá?;littoral;1;49.00736;14.29711;412;2.46;Cf;;6;0.4
+100;2016;IT Tovel 4 meter;IT;Tovel;sediment;4;46.26137;10.94984;1178;0.39;Cf;39;19;10.6
+6;2016;RS Palic lake ;RS;Palic;pelagic;1;46.07632;19.75719;98;4.6;Cf;1.9;3.5;0.2
+9;2016;RS Palic lake ;RS;Palic;littoral;1;46.07632;19.75719;98;4.6;Cf;1.9;3.5;0.2
+12;2016;RS Palic lake ;RS;Palic;sediment;1;46.07632;19.75719;98;4.6;Cf;1.9;3.5;0.2
+15;2016;IT Lugano Paradiso, Forca di S.Martino;IT;Lugano;sediment;1;45.98315;8.95699;271;49;Cs;134;288;6.0
+21;2016;IT Lugano Paradiso, Forca di S.Martino;IT;Lugano;pelagic;1;45.98315;8.95699;271;49;Cs;;;6.0
+24;2016;IT Maggiore 1;IT;Maggiore;sediment;1;45.93108;8.48100;193;212;Cs;177;370;6.0
+30;2016;IT Maggiore 1;IT;Maggiore;pelagic;1;45.93108;8.48100;193;212;Cs;177;370;6.0
+33;2016;IT Maggiore 2;IT;Maggiore;sediment;1;45.93003;8.48169;193;212;Cs;177;370;4.5
+36;2016;IT Maggiore 2;IT;Maggiore;pelagic;1;45.93003;8.48169;193;212;Cs;177;370;4.5
+39;2016;DN Knudso;DN;Knudsø;littoral;1;56.10177;9.76367;20;1.91;Cf;7;30;2.8
+135;2016;IT Lases;IT;Lases;pelagic;5;46.13908;11.22125;632;0.12;Cf;15.2;26;6.6
+138;2016;IT Lases;IT;Lases;pelagic;10;46.13908;11.22125;632;0.12;Cf;15.2;26;6.6
+141;2016;IT Lases;IT;Lases;pelagic;15;46.13908;11.22125;632;0.12;Cf;15.2;26;6.6
+41;2016;DN Knudso;DN;Knudsø;pelagic;1;56.10177;9.76367;20;1.91;Cf;7;30;2.8
+50;2016;NL Haarlemmermeer I;NL;Haarlemmermeer;sediment;1.2;52.329063;4.673379;-3;0.24;Cf;11;20;5.5
+53;2016;NL Haarlemmermeer I;NL;Haarlemmermeer;littoral;1.2;52.329063;4.673379;-3;0.24;Cf;11;20;5.5
+56;2016;NL Haarlemmermeer I;NL;Haarlemmermeer;pelagic;1.2;52.329063;4.673379;-3;0.24;Cf;11;20;5.5
+59;2016;IR Emy 1;IR;Emy;sediment;1;54.33509;-6.93902;48;0.43;Cf;5;;1.4
+62;2016;IR Emy 1;IR;Emy;littoral;1;54.33509;-6.93902;48;0.43;Cf;5;;1.4
+65;2016;IR Emy 2;IR;Emy;sediment;1;54.33779;-6.93327;48;0.43;Cf;5;;1.4
+160;2016;NL Vinkeveen ;NL;Vinkeveen;pelagic;6;52.23526;4.95843;1;0.96;Cf;4;58;5
+161;2016;NL Vinkeveen ;NL;Vinkeveen;pelagic;12;52.23526;4.95843;1;0.96;Cf;4;58;5
+162;2016;NL Vinkeveen ;NL;Vinkeveen;pelagic;18;52.23526;4.95843;1;0.96;Cf;4;58;5
+68;2016;IR Emy 2;IR;Emy;littoral;1;54.33779;-6.93327;48;0.43;Cf;5;;1.4
+86;2016;NL Haarlemmermeer O;NL;Haarlemmermeer;sediment;0.9;52.32899;4.673459;-3;0.24;Cf;11;20;5.5
+89;2016;NL Haarlemmermeer O;NL;Haarlemmermeer;littoral;0.9;52.32899;4.673459;-3;0.24;Cf;11;20;5.5
+92;2016;NL Haarlemmermeer O;NL;Haarlemmermeer;pelagic;0.9;52.32899;4.673459;-3;0.24;Cf;11;20;5.5
+95;2016; IT Tovel 1 meter;IT;Tovel;pelagic;1;46.26137;10.94984;1178;0.39;Cf;39;19;10.6
+103;2016;IT Tovel 4 meter;IT;Tovel;littoral;1;46.26137;10.94984;1178;0.39;Cf;39;19;10.6
+106;2016;IT Campo;IT;Campo;pelagic;1;46.04049;10.49856;1943;0.09;Df;13.7;27;12.1
+144;2016;IT Fishpond;IT;Fishpond;littoral;1;46.18081;11.12739;228;0.00;Cf;NA;1.5;1.2
+155;2016;S Erken;S;Erken;pelagic;1;59.84653;18.56929;11;23.7;Cf;9;21;4.5
+159;2016;NL Vinkeveen ;NL;Vinkeveen;pelagic;1;52.23526;4.95843;1;0.96;Cf;4;58;5.0
+163;2016;IR Emy 3;IR;Emy;sediment;1;54.34475;-6.93679;48;0.43;Cf;5;;1.4
+166;2016;IR Emy 3;IR;Emy;littoral;1;54.34475;-6.93679;48;0.43;Cf;5;;1.4
+169;2016;IR Emy 4;IR;Emy;sediment;1;54.34214;-6.94121;48;0.43;Cf;5;;1.4
+172;2016;IR Emy 4;IR;Emy;littoral;1;54.34214;-6.94121;48;0.43;Cf;5;;1.4
+179;2016;T Eymir;T;Eymir;littoral;1;39.82584;32.83349;984;1.1;Cs;3;;1.7
+188;2017;IT Maresse;IT;Maresse;littoral;1;45.92939;10.552052;1842;0.00;Df;NA;NA;NA
+191;2017;IT Mare;IT;Mare;littoral;1;46.059754;10.497431;2232;0.01;ET;NA;NA;NA
+220;2015;NL RP2;NL;Rosmalense plas;littoral;2;51.723447;5.334576;4;0.19;Cf;31.2;11.6;4.2
+225;2015;NL RP5;NL;Rosmalense plas;littoral;5;51.723447;5.334576;4;0.19;Cf;31.2;11.6;4.2
+230;2015;NL RP10;NL;Rosmalense plas;littoral;10;51.723447;5.334576;4;0.19;Cf;31.2;11.6;4.2
+194;2017;IT Campo;IT;Campo;pelagic;1;46.04049;10.49856;1943;0.09;Df;13.7;27;9.6
+240;2015;NL HV2;NL;Engelermeer;littoral;2;51.702733;5.239674;1.3;0.15;Cf;15.5;8.1;4.5
+245;2015;NL HV5;NL;Engelermeer;littoral;5;51.702733;5.239674;1.3;0.15;Cf;15.5;8.1;4.5
+250;2015;NL HV10;NL;Engelermeer;littoral;10;51.702733;5.239674;1.3;0.15;Cf;15.5;8.1;4.5
+197;2017;IT Wildersee;IT;Wildersee;littoral;1;46.898193;11.5899;2532;0.10;ET;NA;NA;NA
+260;2015;NLOL2;NL;de Omloop;littoral;2;51.791854;4.950042;0.8;0.06;Cf;13.5;6.8;0.9
+265;2015;NL OL5;NL;de Omloop;littoral;5;51.791854;4.950042;0.8;0.06;Cf;13.5;6.8;0.9
+270;2015;NL OL10;NL;de Omloop;littoral;10;51.791854;4.950042;0.8;0.06;Cf;13.5;6.8;0.9
+200;2017;IT S. Giustina;IT;S. Giustina;pelagic;1;46.37199;11.05023;553;3.50;Cf;52;152;3.2
+280;2015;NL BM2;NL;Blauwe meer;littoral;2;51.613653;5.057933;9;0.2;Cf;10.8;23.4;6.45
+285;2015;NL BM5;NL;Blauwe meer;littoral;5;51.613653;5.057933;9;0.2;Cf;10.8;23.4;6.45
+291;2015;NL BM10;NL;Blauwe meer;littoral;10;51.613653;5.057933;9;0.2;Cf;10.8;23.4;6.45
+203;2017;IT Valagola;IT;Valagola;littoral;1;46.165991;10.82025;1595;0.03;Df;NA;4;3.5
+301;2015;NL GW2;NL;Gat van Waalre;littoral;2;51.396893;5.445546;28.5;0.15;Cf;22.7;11.7;4.65
+306;2015;NL GW5;NL;Gat van Waalre;littoral;5;51.396893;5.445546;28.5;0.15;Cf;22.7;11.7;4.65
+311;2015;NL GW10;NL;Gat van Waalre;littoral;10;51.396893;5.445546;28.5;0.15;Cf;22.7;11.7;4.65
+206;2017;IT Barco;IT;Barco;littoral;1;46.273486;10.706155;1904;0.02;Df;NA;8;NA
+321;2015;NL PW2;NL;Plas Wagenberg;littoral;2;51.656317;4.752216;0.3;0.10;Cf;17.5;7.0;3.35
+326;2015;NL PW5;NL;Plas Wagenberg;littoral;5;51.656317;4.752216;0.3;0.10;Cf;17.5;7.0;3.35
+331;2015;NL PW10;NL;Plas Wagenberg;littoral;10;51.656317;4.752216;0.3;0.10;Cf;17.5;7.0;3.35
+212;2017;IT Mezzana;IT;Mezzana;littoral;1;46.27778;10.80972;2001;0.01;ET;NA;12.5;NA
+342;2015;NL LK2;NL;Leemkuilen;littoral;2;51.60757;5.184475;6;0.38;Cf;15.5;7.3;3.15
+348;2015;NL LK5;NL;Leemkuilen;littoral;5;51.60757;5.184475;6;0.38;Cf;15.5;7.3;3.15
+354;2015;NL LK10;NL;Leemkuilen;littoral;10;51.60757;5.184475;6;0.38;Cf;15.5;7.3;3.15
+361;2017;CZ Hamerský Prague;CZ ;Hamerský;littoral;1;50.0523078;14.4861419;220;0.03;Cf;;;0.815
+363;2017;CZ Holásecký fishpond Brno;CZ;Holásecký;littoral;0.8;49.1461111;16.6425;193;0.02;Cf;;;0.5825
+366;2017;CZ Žeb?tínský fishpond Brno;CZ;Žeb?tínský ;littoral;1;49.2142156;16.4929825;306;0.0442;Cf;;;0.54
